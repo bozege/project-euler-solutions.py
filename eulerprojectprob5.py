@@ -10,8 +10,8 @@ def minimumdivisiblefromatob():
         c = a
         a = b
         b = c
-    print("Please wait...")
-    n = 1
+    print("Please wait...") #lines above this line are optional.
+    n = 1 
     i = a
     list =[]
     while len(list) == 0:
