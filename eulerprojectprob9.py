@@ -1,4 +1,4 @@
-#This program finds the only Pythogerian triplet's product for which a + b + c = 1000.
+#This program finds the only Pythogerian triplet's product for which a + b + c = 1000
 
 for a in range (1,1000):
     for b in range (1,1000):
